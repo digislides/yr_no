@@ -1,0 +1,3351 @@
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.met.no/weatherapi/locationforecast/1.9/schema" created="2018-07-16T14:05:48Z">
+    <meta>
+        <model name="LOCAL" termin="2018-07-16T06:00:00Z" runended="2018-07-16T08:23:23Z" nextrun="2018-07-16T16:00:00Z" from="2018-07-16T15:00:00Z" to="2018-07-19T00:00:00Z" />
+        <model name="EC.GEO.0125" termin="2018-07-16T00:00:00Z" runended="2018-07-16T07:37:02Z" nextrun="2018-07-16T19:00:00Z" from="2018-07-19T01:00:00Z" to="2018-07-26T00:00:00Z" />
+    </meta>
+    <product class="pointData">
+        <time datatype="forecast" from="2018-07-16T15:00:00Z" to="2018-07-16T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.9"/>
+                <windDirection id="dd" deg="90.7" name="E"/>
+                <windSpeed id="ff" mps="4.0" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.8"/>
+                <areaMaxWindSpeed mps="5.4"/>
+                <humidity value="37.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.1"/>
+                <cloudiness id="NN" percent="1.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.9"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T14:00:00Z" to="2018-07-16T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T13:00:00Z" to="2018-07-16T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T12:00:00Z" to="2018-07-16T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T09:00:00Z" to="2018-07-16T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T16:00:00Z" to="2018-07-16T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.3"/>
+                <windDirection id="dd" deg="89.0" name="E"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.3"/>
+                <areaMaxWindSpeed mps="5.8"/>
+                <humidity value="40.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.1"/>
+                <cloudiness id="NN" percent="0.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.2"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T15:00:00Z" to="2018-07-16T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T14:00:00Z" to="2018-07-16T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T13:00:00Z" to="2018-07-16T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T10:00:00Z" to="2018-07-16T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T17:00:00Z" to="2018-07-16T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.5"/>
+                <windDirection id="dd" deg="101.0" name="E"/>
+                <windSpeed id="ff" mps="5.5" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.4"/>
+                <areaMaxWindSpeed mps="6.9"/>
+                <humidity value="40.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.1"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T16:00:00Z" to="2018-07-16T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T15:00:00Z" to="2018-07-16T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T14:00:00Z" to="2018-07-16T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T11:00:00Z" to="2018-07-16T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T18:00:00Z" to="2018-07-16T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="29.4"/>
+                <windDirection id="dd" deg="99.8" name="E"/>
+                <windSpeed id="ff" mps="5.9" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.8"/>
+                <areaMaxWindSpeed mps="7.2"/>
+                <humidity value="40.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.2"/>
+                <cloudiness id="NN" percent="0.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T17:00:00Z" to="2018-07-16T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T16:00:00Z" to="2018-07-16T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T15:00:00Z" to="2018-07-16T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T12:00:00Z" to="2018-07-16T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T19:00:00Z" to="2018-07-16T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.0"/>
+                <windDirection id="dd" deg="106.0" name="E"/>
+                <windSpeed id="ff" mps="4.0" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.2"/>
+                <areaMaxWindSpeed mps="6.7"/>
+                <humidity value="46.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.5"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T18:00:00Z" to="2018-07-16T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T17:00:00Z" to="2018-07-16T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T16:00:00Z" to="2018-07-16T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T13:00:00Z" to="2018-07-16T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T20:00:00Z" to="2018-07-16T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="26.5"/>
+                <windDirection id="dd" deg="101.9" name="E"/>
+                <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.0"/>
+                <areaMaxWindSpeed mps="5.9"/>
+                <humidity value="51.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.8"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T19:00:00Z" to="2018-07-16T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T18:00:00Z" to="2018-07-16T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T17:00:00Z" to="2018-07-16T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T14:00:00Z" to="2018-07-16T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="26.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T21:00:00Z" to="2018-07-16T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.1"/>
+                <windDirection id="dd" deg="108.7" name="E"/>
+                <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="4.3"/>
+                <areaMaxWindSpeed mps="5.0"/>
+                <humidity value="55.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1015.1"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T20:00:00Z" to="2018-07-16T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T19:00:00Z" to="2018-07-16T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T18:00:00Z" to="2018-07-16T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T15:00:00Z" to="2018-07-16T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T22:00:00Z" to="2018-07-16T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.9"/>
+                <windDirection id="dd" deg="104.4" name="E"/>
+                <windSpeed id="ff" mps="1.7" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="3.6"/>
+                <areaMaxWindSpeed mps="3.7"/>
+                <humidity value="57.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1015.2"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T21:00:00Z" to="2018-07-16T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T20:00:00Z" to="2018-07-16T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T19:00:00Z" to="2018-07-16T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T16:00:00Z" to="2018-07-16T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.3"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T23:00:00Z" to="2018-07-16T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.4"/>
+                <windDirection id="dd" deg="50.5" name="NE"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="3.0"/>
+                <areaMaxWindSpeed mps="3.6"/>
+                <humidity value="62.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1015.3"/>
+                <cloudiness id="NN" percent="0.1"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T22:00:00Z" to="2018-07-16T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T21:00:00Z" to="2018-07-16T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T20:00:00Z" to="2018-07-16T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T17:00:00Z" to="2018-07-16T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.5"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T00:00:00Z" to="2018-07-17T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="22.5"/>
+                <windDirection id="dd" deg="41.5" name="NE"/>
+                <windSpeed id="ff" mps="2.0" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="2.8"/>
+                <areaMaxWindSpeed mps="3.1"/>
+                <humidity value="67.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1015.1"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T23:00:00Z" to="2018-07-17T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T22:00:00Z" to="2018-07-17T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T21:00:00Z" to="2018-07-17T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T18:00:00Z" to="2018-07-17T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.4"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T01:00:00Z" to="2018-07-17T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.9"/>
+                <windDirection id="dd" deg="23.4" name="NE"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="3.5"/>
+                <areaMaxWindSpeed mps="4.5"/>
+                <humidity value="63.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.9"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T00:00:00Z" to="2018-07-17T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T23:00:00Z" to="2018-07-17T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T22:00:00Z" to="2018-07-17T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T19:00:00Z" to="2018-07-17T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T02:00:00Z" to="2018-07-17T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.5"/>
+                <windDirection id="dd" deg="15.7" name="N"/>
+                <windSpeed id="ff" mps="3.9" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="4.6"/>
+                <areaMaxWindSpeed mps="5.2"/>
+                <humidity value="65.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T01:00:00Z" to="2018-07-17T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T00:00:00Z" to="2018-07-17T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T23:00:00Z" to="2018-07-17T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T20:00:00Z" to="2018-07-17T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.5"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T03:00:00Z" to="2018-07-17T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.4"/>
+                <windDirection id="dd" deg="12.7" name="N"/>
+                <windSpeed id="ff" mps="5.0" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.8"/>
+                <areaMaxWindSpeed mps="5.8"/>
+                <humidity value="66.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.3"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T02:00:00Z" to="2018-07-17T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T01:00:00Z" to="2018-07-17T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T00:00:00Z" to="2018-07-17T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T21:00:00Z" to="2018-07-17T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.1"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T04:00:00Z" to="2018-07-17T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.4"/>
+                <windDirection id="dd" deg="12.4" name="N"/>
+                <windSpeed id="ff" mps="4.7" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.7"/>
+                <areaMaxWindSpeed mps="5.9"/>
+                <humidity value="67.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.3"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T03:00:00Z" to="2018-07-17T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T02:00:00Z" to="2018-07-17T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T01:00:00Z" to="2018-07-17T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T22:00:00Z" to="2018-07-17T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="23.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T05:00:00Z" to="2018-07-17T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.9"/>
+                <windDirection id="dd" deg="49.0" name="NE"/>
+                <windSpeed id="ff" mps="4.3" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.3"/>
+                <areaMaxWindSpeed mps="5.4"/>
+                <humidity value="70.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T04:00:00Z" to="2018-07-17T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T03:00:00Z" to="2018-07-17T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T02:00:00Z" to="2018-07-17T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-16T23:00:00Z" to="2018-07-17T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="23.4"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T06:00:00Z" to="2018-07-17T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.3"/>
+                <windDirection id="dd" deg="42.3" name="NE"/>
+                <windSpeed id="ff" mps="4.8" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.1"/>
+                <areaMaxWindSpeed mps="6.3"/>
+                <humidity value="70.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.5"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T05:00:00Z" to="2018-07-17T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T04:00:00Z" to="2018-07-17T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T03:00:00Z" to="2018-07-17T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T00:00:00Z" to="2018-07-17T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="23.3"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T07:00:00Z" to="2018-07-17T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.7"/>
+                <windDirection id="dd" deg="62.1" name="NE"/>
+                <windSpeed id="ff" mps="4.3" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="5.5"/>
+                <areaMaxWindSpeed mps="5.1"/>
+                <humidity value="63.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.4"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T06:00:00Z" to="2018-07-17T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T05:00:00Z" to="2018-07-17T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T04:00:00Z" to="2018-07-17T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T01:00:00Z" to="2018-07-17T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.7"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T08:00:00Z" to="2018-07-17T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.5"/>
+                <windDirection id="dd" deg="70.7" name="E"/>
+                <windSpeed id="ff" mps="4.8" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.2"/>
+                <areaMaxWindSpeed mps="5.2"/>
+                <humidity value="52.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.1"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T07:00:00Z" to="2018-07-17T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T06:00:00Z" to="2018-07-17T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T05:00:00Z" to="2018-07-17T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T02:00:00Z" to="2018-07-17T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.5"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T09:00:00Z" to="2018-07-17T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.4"/>
+                <windDirection id="dd" deg="87.5" name="E"/>
+                <windSpeed id="ff" mps="5.8" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.8"/>
+                <areaMaxWindSpeed mps="6.0"/>
+                <humidity value="44.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.9"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T08:00:00Z" to="2018-07-17T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T07:00:00Z" to="2018-07-17T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T06:00:00Z" to="2018-07-17T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T03:00:00Z" to="2018-07-17T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.4"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T10:00:00Z" to="2018-07-17T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.4"/>
+                <windDirection id="dd" deg="89.3" name="E"/>
+                <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.2"/>
+                <areaMaxWindSpeed mps="6.4"/>
+                <humidity value="42.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.9"/>
+                <cloudiness id="NN" percent="1.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="0.2"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T09:00:00Z" to="2018-07-17T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T08:00:00Z" to="2018-07-17T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T07:00:00Z" to="2018-07-17T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T04:00:00Z" to="2018-07-17T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.4"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T11:00:00Z" to="2018-07-17T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.9"/>
+                <windDirection id="dd" deg="87.9" name="E"/>
+                <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.7"/>
+                <areaMaxWindSpeed mps="6.8"/>
+                <humidity value="39.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.8"/>
+                <cloudiness id="NN" percent="1.1"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.2"/>
+                <mediumClouds id="MEDIUM" percent="0.9"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T10:00:00Z" to="2018-07-17T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T09:00:00Z" to="2018-07-17T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T08:00:00Z" to="2018-07-17T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T05:00:00Z" to="2018-07-17T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T12:00:00Z" to="2018-07-17T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="32.0"/>
+                <windDirection id="dd" deg="90.1" name="E"/>
+                <windSpeed id="ff" mps="6.7" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="9.1"/>
+                <areaMaxWindSpeed mps="7.1"/>
+                <humidity value="38.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.5"/>
+                <cloudiness id="NN" percent="5.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.7"/>
+                <highClouds id="HIGH" percent="4.3"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T11:00:00Z" to="2018-07-17T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T10:00:00Z" to="2018-07-17T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T09:00:00Z" to="2018-07-17T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T06:00:00Z" to="2018-07-17T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T13:00:00Z" to="2018-07-17T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="32.2"/>
+                <windDirection id="dd" deg="93.7" name="E"/>
+                <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.9"/>
+                <areaMaxWindSpeed mps="6.5"/>
+                <humidity value="36.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.2"/>
+                <cloudiness id="NN" percent="2.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.9"/>
+                <highClouds id="HIGH" percent="0.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T12:00:00Z" to="2018-07-17T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T11:00:00Z" to="2018-07-17T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T10:00:00Z" to="2018-07-17T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T07:00:00Z" to="2018-07-17T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T14:00:00Z" to="2018-07-17T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="32.2"/>
+                <windDirection id="dd" deg="101.9" name="E"/>
+                <windSpeed id="ff" mps="5.5" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.9"/>
+                <areaMaxWindSpeed mps="5.8"/>
+                <humidity value="35.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.0"/>
+                <cloudiness id="NN" percent="1.7"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.7"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T13:00:00Z" to="2018-07-17T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T12:00:00Z" to="2018-07-17T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T11:00:00Z" to="2018-07-17T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T08:00:00Z" to="2018-07-17T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T15:00:00Z" to="2018-07-17T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.6"/>
+                <windDirection id="dd" deg="102.6" name="E"/>
+                <windSpeed id="ff" mps="6.2" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.4"/>
+                <areaMaxWindSpeed mps="6.8"/>
+                <humidity value="38.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.6"/>
+                <cloudiness id="NN" percent="2.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="2.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T14:00:00Z" to="2018-07-17T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T13:00:00Z" to="2018-07-17T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T12:00:00Z" to="2018-07-17T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T09:00:00Z" to="2018-07-17T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="30.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T16:00:00Z" to="2018-07-17T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.8"/>
+                <windDirection id="dd" deg="101.1" name="E"/>
+                <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.5"/>
+                <areaMaxWindSpeed mps="6.6"/>
+                <humidity value="40.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.5"/>
+                <cloudiness id="NN" percent="4.8"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="4.8"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T15:00:00Z" to="2018-07-17T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T14:00:00Z" to="2018-07-17T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T13:00:00Z" to="2018-07-17T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T10:00:00Z" to="2018-07-17T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="30.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T17:00:00Z" to="2018-07-17T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="29.8"/>
+                <windDirection id="dd" deg="99.2" name="E"/>
+                <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="8.7"/>
+                <areaMaxWindSpeed mps="6.9"/>
+                <humidity value="41.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.4"/>
+                <cloudiness id="NN" percent="46.3"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="46.3"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T16:00:00Z" to="2018-07-17T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T15:00:00Z" to="2018-07-17T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T14:00:00Z" to="2018-07-17T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T11:00:00Z" to="2018-07-17T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="29.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T18:00:00Z" to="2018-07-17T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.9"/>
+                <windDirection id="dd" deg="93.9" name="E"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="8.2"/>
+                <areaMaxWindSpeed mps="6.4"/>
+                <humidity value="42.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.6"/>
+                <cloudiness id="NN" percent="42.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="42.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T17:00:00Z" to="2018-07-17T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T16:00:00Z" to="2018-07-17T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T15:00:00Z" to="2018-07-17T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T12:00:00Z" to="2018-07-17T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T19:00:00Z" to="2018-07-17T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="27.9"/>
+                <windDirection id="dd" deg="84.5" name="E"/>
+                <windSpeed id="ff" mps="3.6" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.5"/>
+                <areaMaxWindSpeed mps="4.6"/>
+                <humidity value="49.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="49.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="49.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T18:00:00Z" to="2018-07-17T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T17:00:00Z" to="2018-07-17T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T16:00:00Z" to="2018-07-17T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T13:00:00Z" to="2018-07-17T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="27.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T20:00:00Z" to="2018-07-17T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="26.6"/>
+                <windDirection id="dd" deg="104.1" name="E"/>
+                <windSpeed id="ff" mps="3.2" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="4.2"/>
+                <areaMaxWindSpeed mps="5.6"/>
+                <humidity value="53.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.2"/>
+                <cloudiness id="NN" percent="12.7"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.2"/>
+                <highClouds id="HIGH" percent="11.7"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T19:00:00Z" to="2018-07-17T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T18:00:00Z" to="2018-07-17T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T17:00:00Z" to="2018-07-17T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T14:00:00Z" to="2018-07-17T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="26.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="32.2"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T21:00:00Z" to="2018-07-17T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.7"/>
+                <windDirection id="dd" deg="52.0" name="NE"/>
+                <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="4.5"/>
+                <areaMaxWindSpeed mps="4.8"/>
+                <humidity value="55.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="41.4"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="41.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T20:00:00Z" to="2018-07-17T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T19:00:00Z" to="2018-07-17T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T18:00:00Z" to="2018-07-17T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T15:00:00Z" to="2018-07-17T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.6"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T22:00:00Z" to="2018-07-17T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.9"/>
+                <windDirection id="dd" deg="51.8" name="NE"/>
+                <windSpeed id="ff" mps="5.1" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.1"/>
+                <areaMaxWindSpeed mps="5.8"/>
+                <humidity value="55.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="58.1"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="58.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T21:00:00Z" to="2018-07-17T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T20:00:00Z" to="2018-07-17T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T19:00:00Z" to="2018-07-17T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T16:00:00Z" to="2018-07-17T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.8"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T23:00:00Z" to="2018-07-17T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.0"/>
+                <windDirection id="dd" deg="45.7" name="NE"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.4"/>
+                <areaMaxWindSpeed mps="6.2"/>
+                <humidity value="57.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.5"/>
+                <cloudiness id="NN" percent="59.4"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="59.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T22:00:00Z" to="2018-07-17T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T21:00:00Z" to="2018-07-17T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T20:00:00Z" to="2018-07-17T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T17:00:00Z" to="2018-07-17T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.8"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T00:00:00Z" to="2018-07-18T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.5"/>
+                <windDirection id="dd" deg="54.1" name="NE"/>
+                <windSpeed id="ff" mps="5.2" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.3"/>
+                <areaMaxWindSpeed mps="6.3"/>
+                <humidity value="59.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.2"/>
+                <cloudiness id="NN" percent="22.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="22.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T23:00:00Z" to="2018-07-18T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T22:00:00Z" to="2018-07-18T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T21:00:00Z" to="2018-07-18T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T18:00:00Z" to="2018-07-18T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T01:00:00Z" to="2018-07-18T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.1"/>
+                <windDirection id="dd" deg="62.8" name="NE"/>
+                <windSpeed id="ff" mps="5.5" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="6.8"/>
+                <areaMaxWindSpeed mps="6.3"/>
+                <humidity value="60.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.8"/>
+                <cloudiness id="NN" percent="47.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="47.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T00:00:00Z" to="2018-07-18T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T23:00:00Z" to="2018-07-18T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T22:00:00Z" to="2018-07-18T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T19:00:00Z" to="2018-07-18T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="27.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T02:00:00Z" to="2018-07-18T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="22.8"/>
+                <windDirection id="dd" deg="64.1" name="NE"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.6"/>
+                <areaMaxWindSpeed mps="6.1"/>
+                <humidity value="61.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.7"/>
+                <cloudiness id="NN" percent="3.8"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="3.8"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T01:00:00Z" to="2018-07-18T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T00:00:00Z" to="2018-07-18T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T23:00:00Z" to="2018-07-18T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T20:00:00Z" to="2018-07-18T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T03:00:00Z" to="2018-07-18T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="22.8"/>
+                <windDirection id="dd" deg="63.4" name="NE"/>
+                <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.2"/>
+                <areaMaxWindSpeed mps="6.6"/>
+                <humidity value="60.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="26.7"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="26.7"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T02:00:00Z" to="2018-07-18T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T01:00:00Z" to="2018-07-18T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T00:00:00Z" to="2018-07-18T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T21:00:00Z" to="2018-07-18T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.7"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T04:00:00Z" to="2018-07-18T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.2"/>
+                <windDirection id="dd" deg="67.3" name="NE"/>
+                <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.6"/>
+                <areaMaxWindSpeed mps="6.8"/>
+                <humidity value="60.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="48.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="48.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T03:00:00Z" to="2018-07-18T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T02:00:00Z" to="2018-07-18T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T01:00:00Z" to="2018-07-18T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T22:00:00Z" to="2018-07-18T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="24.9"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T05:00:00Z" to="2018-07-18T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.8"/>
+                <windDirection id="dd" deg="69.2" name="E"/>
+                <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.5"/>
+                <areaMaxWindSpeed mps="6.5"/>
+                <humidity value="60.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="53.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="53.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T04:00:00Z" to="2018-07-18T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T03:00:00Z" to="2018-07-18T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T02:00:00Z" to="2018-07-18T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-17T23:00:00Z" to="2018-07-18T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="24.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T06:00:00Z" to="2018-07-18T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.3"/>
+                <windDirection id="dd" deg="84.6" name="E"/>
+                <windSpeed id="ff" mps="4.9" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.8"/>
+                <areaMaxWindSpeed mps="5.3"/>
+                <humidity value="60.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.6"/>
+                <cloudiness id="NN" percent="9.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="9.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T05:00:00Z" to="2018-07-18T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T04:00:00Z" to="2018-07-18T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T03:00:00Z" to="2018-07-18T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T00:00:00Z" to="2018-07-18T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.3"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T07:00:00Z" to="2018-07-18T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="27.0"/>
+                <windDirection id="dd" deg="87.9" name="E"/>
+                <windSpeed id="ff" mps="4.8" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.3"/>
+                <areaMaxWindSpeed mps="5.0"/>
+                <humidity value="56.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.7"/>
+                <cloudiness id="NN" percent="56.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="56.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T06:00:00Z" to="2018-07-18T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T05:00:00Z" to="2018-07-18T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T04:00:00Z" to="2018-07-18T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T01:00:00Z" to="2018-07-18T07:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="27.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T08:00:00Z" to="2018-07-18T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.3"/>
+                <windDirection id="dd" deg="86.1" name="E"/>
+                <windSpeed id="ff" mps="5.0" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.5"/>
+                <areaMaxWindSpeed mps="5.1"/>
+                <humidity value="54.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="85.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="85.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T07:00:00Z" to="2018-07-18T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T06:00:00Z" to="2018-07-18T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T05:00:00Z" to="2018-07-18T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T02:00:00Z" to="2018-07-18T08:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T09:00:00Z" to="2018-07-18T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="29.3"/>
+                <windDirection id="dd" deg="91.0" name="E"/>
+                <windSpeed id="ff" mps="5.3" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.0"/>
+                <areaMaxWindSpeed mps="5.6"/>
+                <humidity value="53.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.4"/>
+                <cloudiness id="NN" percent="96.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="96.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="19.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T08:00:00Z" to="2018-07-18T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T07:00:00Z" to="2018-07-18T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T06:00:00Z" to="2018-07-18T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T03:00:00Z" to="2018-07-18T09:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T10:00:00Z" to="2018-07-18T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="29.9"/>
+                <windDirection id="dd" deg="92.6" name="E"/>
+                <windSpeed id="ff" mps="5.1" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="6.9"/>
+                <areaMaxWindSpeed mps="5.4"/>
+                <humidity value="50.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.3"/>
+                <cloudiness id="NN" percent="99.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.1"/>
+                <highClouds id="HIGH" percent="99.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T09:00:00Z" to="2018-07-18T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T08:00:00Z" to="2018-07-18T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T07:00:00Z" to="2018-07-18T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T04:00:00Z" to="2018-07-18T10:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T11:00:00Z" to="2018-07-18T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.3"/>
+                <windDirection id="dd" deg="89.7" name="E"/>
+                <windSpeed id="ff" mps="5.7" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.5"/>
+                <areaMaxWindSpeed mps="6.2"/>
+                <humidity value="49.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.4"/>
+                <cloudiness id="NN" percent="97.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.4"/>
+                <mediumClouds id="MEDIUM" percent="0.3"/>
+                <highClouds id="HIGH" percent="97.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T10:00:00Z" to="2018-07-18T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T09:00:00Z" to="2018-07-18T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T08:00:00Z" to="2018-07-18T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T05:00:00Z" to="2018-07-18T11:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T12:00:00Z" to="2018-07-18T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.9"/>
+                <windDirection id="dd" deg="85.3" name="E"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.5"/>
+                <areaMaxWindSpeed mps="6.4"/>
+                <humidity value="47.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.4"/>
+                <cloudiness id="NN" percent="96.3"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="1.1"/>
+                <mediumClouds id="MEDIUM" percent="3.5"/>
+                <highClouds id="HIGH" percent="96.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="18.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T11:00:00Z" to="2018-07-18T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T10:00:00Z" to="2018-07-18T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T09:00:00Z" to="2018-07-18T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T06:00:00Z" to="2018-07-18T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T13:00:00Z" to="2018-07-18T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.0"/>
+                <windDirection id="dd" deg="84.3" name="E"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.2"/>
+                <areaMaxWindSpeed mps="6.3"/>
+                <humidity value="45.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.1"/>
+                <cloudiness id="NN" percent="97.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.5"/>
+                <mediumClouds id="MEDIUM" percent="5.7"/>
+                <highClouds id="HIGH" percent="97.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T12:00:00Z" to="2018-07-18T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T11:00:00Z" to="2018-07-18T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T10:00:00Z" to="2018-07-18T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T07:00:00Z" to="2018-07-18T13:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="27.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T14:00:00Z" to="2018-07-18T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="31.0"/>
+                <windDirection id="dd" deg="86.1" name="E"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="7.0"/>
+                <areaMaxWindSpeed mps="5.7"/>
+                <humidity value="42.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.9"/>
+                <cloudiness id="NN" percent="99.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.5"/>
+                <mediumClouds id="MEDIUM" percent="4.9"/>
+                <highClouds id="HIGH" percent="99.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T13:00:00Z" to="2018-07-18T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T12:00:00Z" to="2018-07-18T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T11:00:00Z" to="2018-07-18T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T08:00:00Z" to="2018-07-18T14:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T15:00:00Z" to="2018-07-18T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="30.8"/>
+                <windDirection id="dd" deg="90.7" name="E"/>
+                <windSpeed id="ff" mps="5.7" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="7.4"/>
+                <areaMaxWindSpeed mps="6.6"/>
+                <humidity value="42.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.0"/>
+                <cloudiness id="NN" percent="97.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="8.9"/>
+                <highClouds id="HIGH" percent="97.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T14:00:00Z" to="2018-07-18T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T13:00:00Z" to="2018-07-18T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T12:00:00Z" to="2018-07-18T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T09:00:00Z" to="2018-07-18T15:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="29.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T16:00:00Z" to="2018-07-18T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="29.0"/>
+                <windDirection id="dd" deg="119.5" name="SE"/>
+                <windSpeed id="ff" mps="6.6" beaufort="4" name="Laber bris"/>
+                <windGust id="ff_gust" mps="9.2"/>
+                <areaMaxWindSpeed mps="7.9"/>
+                <humidity value="48.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.3"/>
+                <cloudiness id="NN" percent="99.7"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="4.8"/>
+                <highClouds id="HIGH" percent="99.7"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T15:00:00Z" to="2018-07-18T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T14:00:00Z" to="2018-07-18T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T13:00:00Z" to="2018-07-18T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T10:00:00Z" to="2018-07-18T16:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="29.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T17:00:00Z" to="2018-07-18T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.3"/>
+                <windDirection id="dd" deg="129.5" name="SE"/>
+                <windSpeed id="ff" mps="4.9" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="8.3"/>
+                <areaMaxWindSpeed mps="6.0"/>
+                <humidity value="49.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.4"/>
+                <cloudiness id="NN" percent="98.1"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="2.9"/>
+                <highClouds id="HIGH" percent="98.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T16:00:00Z" to="2018-07-18T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T15:00:00Z" to="2018-07-18T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T14:00:00Z" to="2018-07-18T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T11:00:00Z" to="2018-07-18T17:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T18:00:00Z" to="2018-07-18T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.0"/>
+                <windDirection id="dd" deg="143.4" name="SE"/>
+                <windSpeed id="ff" mps="3.2" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="6.0"/>
+                <areaMaxWindSpeed mps="4.1"/>
+                <humidity value="47.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="95.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="4.3"/>
+                <highClouds id="HIGH" percent="95.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T17:00:00Z" to="2018-07-18T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T16:00:00Z" to="2018-07-18T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T15:00:00Z" to="2018-07-18T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T12:00:00Z" to="2018-07-18T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="28.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T19:00:00Z" to="2018-07-18T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="27.4"/>
+                <windDirection id="dd" deg="148.2" name="SE"/>
+                <windSpeed id="ff" mps="0.9" beaufort="1" name="Flau vind"/>
+                <windGust id="ff_gust" mps="3.6"/>
+                <areaMaxWindSpeed mps="3.2"/>
+                <humidity value="47.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="99.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="13.3"/>
+                <highClouds id="HIGH" percent="99.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T18:00:00Z" to="2018-07-18T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T17:00:00Z" to="2018-07-18T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T16:00:00Z" to="2018-07-18T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T13:00:00Z" to="2018-07-18T19:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="27.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T20:00:00Z" to="2018-07-18T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="26.4"/>
+                <windDirection id="dd" deg="60.4" name="NE"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <windGust id="ff_gust" mps="1.5"/>
+                <areaMaxWindSpeed mps="3.0"/>
+                <humidity value="52.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.8"/>
+                <cloudiness id="NN" percent="99.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="20.4"/>
+                <highClouds id="HIGH" percent="99.3"/>
+                <dewpointTemperature id="TD" unit="celsius" value="16.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T19:00:00Z" to="2018-07-18T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T18:00:00Z" to="2018-07-18T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T17:00:00Z" to="2018-07-18T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T14:00:00Z" to="2018-07-18T20:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="26.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="31.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T21:00:00Z" to="2018-07-18T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.6"/>
+                <windDirection id="dd" deg="83.7" name="E"/>
+                <windSpeed id="ff" mps="2.4" beaufort="2" name="Svak vind"/>
+                <windGust id="ff_gust" mps="3.0"/>
+                <areaMaxWindSpeed mps="5.5"/>
+                <humidity value="54.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.9"/>
+                <cloudiness id="NN" percent="98.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="5.9"/>
+                <mediumClouds id="MEDIUM" percent="23.5"/>
+                <highClouds id="HIGH" percent="98.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T20:00:00Z" to="2018-07-18T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T19:00:00Z" to="2018-07-18T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T18:00:00Z" to="2018-07-18T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T15:00:00Z" to="2018-07-18T21:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="30.8"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T22:00:00Z" to="2018-07-18T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.8"/>
+                <windDirection id="dd" deg="53.0" name="NE"/>
+                <windSpeed id="ff" mps="0.9" beaufort="1" name="Flau vind"/>
+                <windGust id="ff_gust" mps="2.6"/>
+                <areaMaxWindSpeed mps="4.7"/>
+                <humidity value="54.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.9"/>
+                <cloudiness id="NN" percent="99.4"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="1.1"/>
+                <mediumClouds id="MEDIUM" percent="37.4"/>
+                <highClouds id="HIGH" percent="98.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T21:00:00Z" to="2018-07-18T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T20:00:00Z" to="2018-07-18T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T19:00:00Z" to="2018-07-18T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T16:00:00Z" to="2018-07-18T22:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T23:00:00Z" to="2018-07-18T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.0"/>
+                <windDirection id="dd" deg="22.9" name="NE"/>
+                <windSpeed id="ff" mps="3.5" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="4.0"/>
+                <areaMaxWindSpeed mps="4.1"/>
+                <humidity value="65.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.1"/>
+                <cloudiness id="NN" percent="99.7"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.1"/>
+                <mediumClouds id="MEDIUM" percent="68.8"/>
+                <highClouds id="HIGH" percent="99.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="17.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T22:00:00Z" to="2018-07-18T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T21:00:00Z" to="2018-07-18T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T20:00:00Z" to="2018-07-18T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T17:00:00Z" to="2018-07-18T23:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.3"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T00:00:00Z" to="2018-07-19T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.7"/>
+                <windDirection id="dd" deg="44.0" name="NE"/>
+                <windSpeed id="ff" mps="3.6" beaufort="3" name="Lett bris"/>
+                <windGust id="ff_gust" mps="4.2"/>
+                <areaMaxWindSpeed mps="4.9"/>
+                <humidity value="60.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.0"/>
+                <cloudiness id="NN" percent="98.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="43.9"/>
+                <highClouds id="HIGH" percent="98.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T23:00:00Z" to="2018-07-19T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T22:00:00Z" to="2018-07-19T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T21:00:00Z" to="2018-07-19T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T18:00:00Z" to="2018-07-19T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T01:00:00Z" to="2018-07-19T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.6"/>
+                <windDirection id="dd" deg="26.7" name="NE"/>
+                <windSpeed id="ff" mps="1.7" beaufort="2" name="Svak vind"/>
+                <humidity value="72.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.2"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="99.2"/>
+                <highClouds id="HIGH" percent="56.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T00:00:00Z" to="2018-07-19T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T23:00:00Z" to="2018-07-19T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T22:00:00Z" to="2018-07-19T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T19:00:00Z" to="2018-07-19T01:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="24.7"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T02:00:00Z" to="2018-07-19T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.2"/>
+                <windDirection id="dd" deg="31.0" name="NE"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="73.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.1"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="99.2"/>
+                <highClouds id="HIGH" percent="67.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T01:00:00Z" to="2018-07-19T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T00:00:00Z" to="2018-07-19T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T23:00:00Z" to="2018-07-19T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T20:00:00Z" to="2018-07-19T02:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.7"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T03:00:00Z" to="2018-07-19T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.3"/>
+                <windDirection id="dd" deg="37.5" name="NE"/>
+                <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"/>
+                <humidity value="72.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.0"/>
+                <cloudiness id="NN" percent="96.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="91.4"/>
+                <highClouds id="HIGH" percent="85.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T02:00:00Z" to="2018-07-19T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T01:00:00Z" to="2018-07-19T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T00:00:00Z" to="2018-07-19T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T21:00:00Z" to="2018-07-19T03:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.3"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T04:00:00Z" to="2018-07-19T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="20.2"/>
+                <windDirection id="dd" deg="36.1" name="NE"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="69.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.1"/>
+                <cloudiness id="NN" percent="98.4"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="95.3"/>
+                <highClouds id="HIGH" percent="78.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T03:00:00Z" to="2018-07-19T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T02:00:00Z" to="2018-07-19T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T01:00:00Z" to="2018-07-19T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T22:00:00Z" to="2018-07-19T04:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.8"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T05:00:00Z" to="2018-07-19T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.1"/>
+                <windDirection id="dd" deg="35.9" name="NE"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="66.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.3"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="99.2"/>
+                <highClouds id="HIGH" percent="96.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T04:00:00Z" to="2018-07-19T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T03:00:00Z" to="2018-07-19T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T02:00:00Z" to="2018-07-19T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-18T23:00:00Z" to="2018-07-19T05:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T06:00:00Z" to="2018-07-19T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.7"/>
+                <windDirection id="dd" deg="40.6" name="NE"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="63.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.4"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="99.2"/>
+                <highClouds id="HIGH" percent="99.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T05:00:00Z" to="2018-07-19T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T04:00:00Z" to="2018-07-19T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T03:00:00Z" to="2018-07-19T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T00:00:00Z" to="2018-07-19T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.7"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T12:00:00Z" to="2018-07-19T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="26.3"/>
+                <windDirection id="dd" deg="79.0" name="E"/>
+                <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"/>
+                <humidity value="46.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.4"/>
+                <cloudiness id="NN" percent="81.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="1.6"/>
+                <mediumClouds id="MEDIUM" percent="78.9"/>
+                <highClouds id="HIGH" percent="9.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="13.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T06:00:00Z" to="2018-07-19T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T18:00:00Z" to="2018-07-19T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.9"/>
+                <windDirection id="dd" deg="98.6" name="E"/>
+                <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"/>
+                <humidity value="52.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.5"/>
+                <cloudiness id="NN" percent="74.2"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="71.9"/>
+                <highClouds id="HIGH" percent="9.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T12:00:00Z" to="2018-07-19T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.7"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T00:00:00Z" to="2018-07-20T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="20.1"/>
+                <windDirection id="dd" deg="196.9" name="S"/>
+                <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"/>
+                <humidity value="73.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.9"/>
+                <cloudiness id="NN" percent="90.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="90.6"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-19T18:00:00Z" to="2018-07-20T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="20.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T06:00:00Z" to="2018-07-20T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="22.6"/>
+                <windDirection id="dd" deg="306.2" name="NW"/>
+                <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"/>
+                <humidity value="61.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.3"/>
+                <cloudiness id="NN" percent="25.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="25.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T00:00:00Z" to="2018-07-20T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.6"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T12:00:00Z" to="2018-07-20T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.2"/>
+                <windDirection id="dd" deg="132.0" name="SE"/>
+                <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"/>
+                <humidity value="34.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.7"/>
+                <cloudiness id="NN" percent="28.9"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="28.9"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T06:00:00Z" to="2018-07-20T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.2"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T18:00:00Z" to="2018-07-20T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.5"/>
+                <windDirection id="dd" deg="194.8" name="S"/>
+                <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+                <humidity value="39.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.1"/>
+                <cloudiness id="NN" percent="27.3"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="22.7"/>
+                <highClouds id="HIGH" percent="6.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T12:00:00Z" to="2018-07-20T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="25.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.5"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T00:00:00Z" to="2018-07-21T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.3"/>
+                <windDirection id="dd" deg="228.5" name="SW"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <humidity value="72.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.4"/>
+                <cloudiness id="NN" percent="26.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="26.6"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-20T18:00:00Z" to="2018-07-21T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.7"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T06:00:00Z" to="2018-07-21T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="20.3"/>
+                <windDirection id="dd" deg="276.5" name="W"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <humidity value="62.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.9"/>
+                <cloudiness id="NN" percent="13.3"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="1.6"/>
+                <mediumClouds id="MEDIUM" percent="13.3"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="13.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T00:00:00Z" to="2018-07-21T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.3"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T12:00:00Z" to="2018-07-21T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="26.0"/>
+                <windDirection id="dd" deg="241.0" name="SW"/>
+                <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"/>
+                <humidity value="33.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.2"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T06:00:00Z" to="2018-07-21T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="20.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T18:00:00Z" to="2018-07-21T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.1"/>
+                <windDirection id="dd" deg="280.4" name="W"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <humidity value="48.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.2"/>
+                <cloudiness id="NN" percent="65.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.8"/>
+                <highClouds id="HIGH" percent="64.8"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T12:00:00Z" to="2018-07-21T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="27.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T00:00:00Z" to="2018-07-22T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="18.2"/>
+                <windDirection id="dd" deg="264.2" name="W"/>
+                <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+                <humidity value="61.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.9"/>
+                <cloudiness id="NN" percent="1.6"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="1.6"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-21T18:00:00Z" to="2018-07-22T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="23.1"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T06:00:00Z" to="2018-07-22T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.0"/>
+                <windDirection id="dd" deg="271.1" name="W"/>
+                <windSpeed id="ff" mps="3.2" beaufort="2" name="Svak vind"/>
+                <humidity value="64.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.7"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T00:00:00Z" to="2018-07-22T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="16.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T12:00:00Z" to="2018-07-22T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="24.3"/>
+                <windDirection id="dd" deg="242.2" name="SW"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="33.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1006.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T06:00:00Z" to="2018-07-22T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="24.3"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T18:00:00Z" to="2018-07-22T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="25.1"/>
+                <windDirection id="dd" deg="222.0" name="SW"/>
+                <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"/>
+                <humidity value="24.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1005.7"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="3.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T12:00:00Z" to="2018-07-22T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="24.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="26.6"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T00:00:00Z" to="2018-07-23T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="19.4"/>
+                <windDirection id="dd" deg="249.1" name="W"/>
+                <windSpeed id="ff" mps="3.5" beaufort="3" name="Lett bris"/>
+                <humidity value="54.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1006.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-22T18:00:00Z" to="2018-07-23T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="25.1"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T06:00:00Z" to="2018-07-23T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.3"/>
+                <windDirection id="dd" deg="263.1" name="W"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="63.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.3"/>
+                <cloudiness id="NN" percent="19.5"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="19.5"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T00:00:00Z" to="2018-07-23T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.3"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T12:00:00Z" to="2018-07-23T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.8"/>
+                <windDirection id="dd" deg="153.2" name="SE"/>
+                <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"/>
+                <humidity value="29.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.1"/>
+                <cloudiness id="NN" percent="88.3"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="88.3"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T06:00:00Z" to="2018-07-23T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T18:00:00Z" to="2018-07-23T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="27.9"/>
+                <windDirection id="dd" deg="150.1" name="SE"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="29.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.0"/>
+                <cloudiness id="NN" percent="23.4"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="23.4"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T12:00:00Z" to="2018-07-23T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="27.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.4"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T00:00:00Z" to="2018-07-24T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.1"/>
+                <windDirection id="dd" deg="253.9" name="W"/>
+                <windSpeed id="ff" mps="3.5" beaufort="3" name="Lett bris"/>
+                <humidity value="57.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.4"/>
+                <cloudiness id="NN" percent="0.8"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.8"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-23T18:00:00Z" to="2018-07-24T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="27.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T06:00:00Z" to="2018-07-24T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="22.0"/>
+                <windDirection id="dd" deg="223.2" name="SW"/>
+                <windSpeed id="ff" mps="2.4" beaufort="2" name="Svak vind"/>
+                <humidity value="61.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.0"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T00:00:00Z" to="2018-07-24T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T12:00:00Z" to="2018-07-24T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.6"/>
+                <windDirection id="dd" deg="239.7" name="SW"/>
+                <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+                <humidity value="31.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.3"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T06:00:00Z" to="2018-07-24T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="22.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.6"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T18:00:00Z" to="2018-07-24T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="27.3"/>
+                <windDirection id="dd" deg="245.7" name="SW"/>
+                <windSpeed id="ff" mps="4.5" beaufort="3" name="Lett bris"/>
+                <humidity value="37.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T12:00:00Z" to="2018-07-24T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="27.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.5"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T00:00:00Z" to="2018-07-25T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.3"/>
+                <windDirection id="dd" deg="247.5" name="W"/>
+                <windSpeed id="ff" mps="4.2" beaufort="3" name="Lett bris"/>
+                <humidity value="68.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.6"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="15.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-24T18:00:00Z" to="2018-07-25T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="27.3"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T06:00:00Z" to="2018-07-25T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="21.5"/>
+                <windDirection id="dd" deg="255.1" name="W"/>
+                <windSpeed id="ff" mps="4.4" beaufort="3" name="Lett bris"/>
+                <humidity value="65.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.2"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="14.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T00:00:00Z" to="2018-07-25T06:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.5"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T12:00:00Z" to="2018-07-25T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="28.1"/>
+                <windDirection id="dd" deg="284.6" name="W"/>
+                <windSpeed id="ff" mps="3.9" beaufort="3" name="Lett bris"/>
+                <humidity value="20.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.7"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="3.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T06:00:00Z" to="2018-07-25T12:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="21.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="28.1"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T18:00:00Z" to="2018-07-25T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="23.0"/>
+                <windDirection id="dd" deg="52.9" name="NE"/>
+                <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+                <humidity value="51.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1014.7"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T12:00:00Z" to="2018-07-25T18:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="23.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="29.9"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-26T00:00:00Z" to="2018-07-26T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <temperature id="TTT" unit="celsius" value="17.4"/>
+                <windDirection id="dd" deg="65.7" name="NE"/>
+                <windSpeed id="ff" mps="2.4" beaufort="2" name="Svak vind"/>
+                <humidity value="56.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1018.2"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2018-07-25T18:00:00Z" to="2018-07-26T00:00:00Z">
+            <location altitude="3" latitude="59.4274" longitude="17.5374">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="17.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="23.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+    </product>
+</weatherdata>

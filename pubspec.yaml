@@ -1,0 +1,16 @@
+name: yr_no
+description: A sample command-line application.
+version: 1.0.0
+homepage: https://www.example.com
+author: Ravi Teja Gudapati <tejainece@gmail.com>
+
+environment:
+  sdk: '>=2.0.0-dev.55.0 <2.0.0'
+
+dependencies:
+  http: ^0.11.3
+  jaguar_resty: ^2.5.5
+  xml: ^3.0.0
+
+dev_dependencies:
+  test: ^1.2.0
