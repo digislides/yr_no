@@ -31,4 +31,15 @@ class FullWeather {
   List<DayWeather> days;
 
   FullWeather(this.current, this.in3Hours, this.days);
+
+  String toString() {
+    var sb = StringBuffer();
+
+    sb.writeln('Current: $current');
+    sb.writeln('In 3 hours: $in3Hours');
+    sb.writeln('Days:');
+    days.forEach((w) => sb.writeln(w));
+
+    return sb.toString();
+  }
 }

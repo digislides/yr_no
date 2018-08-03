@@ -67,7 +67,6 @@ DurationWeather getWeatherDay(List<xml.XmlElement> times, DateTime at) {
     DateTime time = DateTime.tryParse(to);
     if (!time.isAtSameMomentAs(at)) return false;
     if (el.findAllElements('minTemperature').isEmpty) return false;
-    print(to);
     return true;
   });
 
@@ -143,7 +142,6 @@ DurationWeather getWeatherNight(List<xml.XmlElement> times, DateTime at) {
 
 Future<FullWeather> fetch(num longitude, num latitude) async {
   var now = DateTime.now().toUtc();
-  print(now.toIso8601String());
   var threeHours = now.add(Duration(hours: 3));
 
   resty.StringResponse resp = await resty
@@ -153,16 +151,14 @@ Future<FullWeather> fetch(num longitude, num latitude) async {
     'lon': longitude.toString(),
   }).go();
   String body = resp.body;
+
   // String body = await File('example.xml').readAsString();
-  // print(body);
 
   List<xml.XmlElement> times = _getTimes(body);
 
   Weather current = getWeather(times);
-  print(current);
 
   Weather in3Hours = getWeatherAt(times, threeHours);
-  print(in3Hours);
 
   final days = <DayWeather>[];
 
@@ -174,13 +170,12 @@ Future<FullWeather> fetch(num longitude, num latitude) async {
     DayWeather day = DayWeather(dayWeather, nightWeather);
     days.add(day);
     dayTime = dayTime.add(Duration(days: 1));
-
-    print(day);
   }
   return FullWeather(current, in3Hours, days);
 }
 
 main(List<String> arguments) async {
   resty.globalClient = http.IOClient();
-  await fetch(17.53739, 59.42742);
+  FullWeather weather = await fetch(17.53739, 59.42742);
+  print(weather);
 }
